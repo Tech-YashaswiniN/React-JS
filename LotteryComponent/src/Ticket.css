@@ -1,0 +1,11 @@
+.ticket{
+    width:200px;
+    height:30px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(164, 164, 223);
+    gap:1rem;
+    border-radius: 20px;
+    margin: auto;
+}
