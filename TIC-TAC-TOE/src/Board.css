@@ -1,0 +1,21 @@
+.Board{
+    width: 350px;
+    height:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(56, 107, 226, 0.403);
+}
+
+.status{
+    color:black;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.jumpTo{
+    margin-top: 1rem;
+    background-color: rgba(9, 9, 9, 0.179);
+    border:none;
+    outline: none;
+}
