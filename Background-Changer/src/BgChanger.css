@@ -1,0 +1,26 @@
+
+.Container{
+    width:100vw;
+    height:100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.btn-container{
+    margin-top: 30rem;
+    width: 90%;
+    height: 40px;
+    padding: 10px;
+    background-color:aliceblue;
+    border-radius: 30px;
+    margin: auto;
+}
+
+button{
+    width:100px;
+    padding:5px;
+    color: white;
+    outline: none;
+    border: none;
+    margin-left: 2rem;
+}
